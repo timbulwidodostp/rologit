@@ -1,6 +1,8 @@
 # rologit
 Fit RO-logit model and obtain heuristic residuals Use rologit (ROlogit) With R Software
 
+https://www.youtube.com/watch?v=JztfrJkf4WQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
